@@ -18,6 +18,7 @@ To use it:
 
 Install with pip install -e code-map-mcp or use uvx
 Add to your MCP config at 
+
 mcp.json
 :
 {
@@ -30,4 +31,5 @@ mcp.json
     }
   }
 }
+
 The server will help you quickly locate any function you need as you generate code through specs or vibecoding. Just scan your workspace periodically to keep the map updated!
